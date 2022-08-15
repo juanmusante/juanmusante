@@ -13,6 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="JPM-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JPM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JPM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="right" alt="JPM-code" src="https://media0.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=790b7611583bddbfbcef202687104b90a1dd95f0d9a110fa&rid=giphy.gif&ct=g">
 </div>
 

@@ -3,7 +3,7 @@
 
 - 🌱 I’m learning the skills to be a full stack dev.
 - 👯 I’m up to collaborate to any project to improve my knoledge.
-- 📫 You can reach me here --> https://www.linkedin.com/in/juan-pedro-musante-1674ab21/
+- 📫 You can reach me here --> https://www.linkedin.com/in/juanmusante
 
 
 <div align="center">
